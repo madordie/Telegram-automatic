@@ -12,7 +12,7 @@
 
 # download
 
-  git clone https://github.com/madordie/Telegram-automatic.git
+  `git clone https://github.com/madordie/Telegram-automatic.git`
   
   ⚠️ if you download zip , you can not build for submodule...
 
