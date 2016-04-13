@@ -9,5 +9,3 @@ git submodule init
 git submodule update --checkout
 git submodule update
 
-echo "更新完毕。"
-
